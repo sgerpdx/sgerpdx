@@ -4,7 +4,7 @@ Hello and welcome! I'm a full stack engineer interested in building imaginative 
 
 Currently my skillset includes the use of:  
 
-```{ Javascript, HTML, CSS, React.js, Node.js, PostgresSQL, Postman, Netlify, Heroku }```  
+```[ Javascript, HTML, CSS, React.js, Node.js, PostgresSQL, Postman, Netlify, Heroku ]```  
 
 I've also worked with APIs and am exploring Ethereum blockchain development using Solidity and web3.js  
 
