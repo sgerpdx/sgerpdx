@@ -1,7 +1,6 @@
-<img src="https://images-assets.nasa.gov/image/PIA09212/PIA09212~thumb.jpg" alt="neon image of planet saturn" height="140"/>
-### Hello!
+<img src="https://images-assets.nasa.gov/image/PIA09212/PIA09212~thumb.jpg" alt="neon image of planet saturn" height="140"/>  
 
-I'm Sam, a full stack engineer interested in building imaginative apps that encourage user interaction and creativity, using a foundation of carefully-considered design and TDD.  
+Hello and welcome, I'm Sam, a full stack engineer interested in building imaginative apps that encourage user interaction and creativity, using a foundation of carefully-considered design and TDD.  
 
 Currently my skillset includes the use of:  
 
