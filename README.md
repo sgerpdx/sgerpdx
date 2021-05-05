@@ -6,6 +6,6 @@ Currently my skillset includes the use of:
 
 ```{ Javascript, HTML, CSS, React.js, Node.js, PostgresSQL, Postman, Netlify, Heroku }```  
 
-I've also worked with APIs and am currently exploring Ethereum blockchain development using Solidity and web3.js  
+I've also worked with APIs and am exploring Ethereum blockchain development using Solidity and web3.js  
 
 My past experiences working in accounting and studying linguistics have instilled in me an analytical attention to detail and an appreciation for comparative syntax. I love the universality of programming languages. Other passions of mine include hiking, music, and danish pastries. Feel free to contact me!  
