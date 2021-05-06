@@ -1,6 +1,6 @@
 ![banner with nasa neon saturn image](/assets/nasa-neon-saturn-banner-loop-plain.png)  
 
-Hello and welcome! I'm a full stack engineer interested in building imaginative apps that encourage user interaction and creativity, using a foundation of carefully-considered design and TDD.  
+Hello and welcome! I'm a enthusiastic engineer interested in building imaginative apps that encourage user interaction and creativity, using a foundation of carefully-considered design and TDD.  
 
 Currently my skillset includes the use of:  
 
