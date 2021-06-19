@@ -4,7 +4,7 @@ Hello and welcome, I'm a enthusiastic engineer interested in building imaginativ
 
 Currently my skillset includes the use of:  
 
-```[ Javascript, HTML, CSS, React.js, Node.js, p5.js, PostgresSQL, Postman, Netlify, Heroku ]```  
+```[ JavaScript, HTML, CSS, React.js, Node.js, p5.js, PostgresSQL, Postman, Netlify, Heroku ]```  
 
 I've also worked with APIs and am exploring Ethereum blockchain development using Solidity and web3.js  
 
