@@ -1,12 +1,9 @@
 ![image_github-banner_0107](https://user-images.githubusercontent.com/37253415/148599492-3b540a51-bf9b-4059-bc2f-e19bf6e9a96d.png) 
 
-Hey there, I'm a software developer interested in building imaginative apps that encourage user interaction and creativity, using a foundation of carefully-considered design and TDD.  
+Hey there, I'm Sam. I enjoy linguistics and donuts and combining diverse influences into UX-driven full-stack apps. Tech that I have worked with includes:    
 
-My stack includes the use of:  
+```[ JavaScript, TypeScript, HTML, CSS, Tailwind CSS, React.js, Node.js, Express, Jest, React Testing Library, Next.js, Firebase, Supabase, p5.js, PostgresSQL & pgAdmin, Postman, Netlify, Heroku, Vercel, AWS ]```    
 
-```[ JavaScript, HTML, CSS, React.js, Node.js, Express, Jest, React Testing Library, Next.js, Firebase, Supabase, p5.js, PostgresSQL & pgAdmin, Postman, Netlify, Heroku, Vercel, AWS ]```  
 
-I've also worked with many APIs, studied and experimented with React Native, am currently learning TypeScript, and have done a little exploration of Ethereum blockchain development using Solidity and web3.js
-
-My past experiences working in accounting and studying linguistics have instilled in me an analytical attention to detail and an appreciation for comparative syntax. I love the universality of programming languages. Other passions of mine include hiking, music, and spending way too much money on donuts. Happy coding! 
+Currently I'm iterating through an array of non-code circumstances, so my linked portfolio site (among other things) is a bit out of date. Hopefully I'll be able to return to a more active state here in the near future.  Thanks for stopping by, and have a nice day!
 
